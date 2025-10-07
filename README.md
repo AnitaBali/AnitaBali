@@ -9,8 +9,6 @@ Esta perspectiva me permite entender las necesidades de negocio y los procesos d
 Fue esta inmersión en la tecnología lo que me motivó a cambiar de carrera. Actualmente, estoy cursando el **2º año del CFGS en Desarrollo de Aplicaciones Web (DAW)**, 
 donde mi objetivo es **crear aplicaciones web escalables y eficientes** con un código de alta calidad.
 
-Actualmente, estoy cursando el **2º año del CFGS en Desarrollo de Aplicaciones Web (DAW)**.
-
 Mi experiencia cubre el stack completo, lo que me da una capacidad de adaptación superior:
 
 | Área | Tecnologías y Lenguajes Dominados |

@@ -9,6 +9,19 @@ Esta perspectiva me permite entender las necesidades de negocio y los procesos d
 Fue esta inmersión en la tecnología lo que me motivó a cambiar de carrera. Actualmente, estoy cursando el **2º año del CFGS en Desarrollo de Aplicaciones Web (DAW)**, 
 donde mi objetivo es **crear aplicaciones web escalables y eficientes** con un código de alta calidad.
 
+---
+
+### 🌹 La Filosofía Detrás del Código
+
+> **"Lo esencial es invisible a los ojos."**
+> *(Antoine de Saint-Exupéry, El Principito)*
+
+Este es mi principio guía en el desarrollo web. Nadie te aplaude por el *backend*, pero es ahí, en la **lógica invisible**, donde se resuelve el 99% de los problemas. 
+Mi esfuerzo se centra en construir esta arquitectura con bases sólidas (**Python, Java, C#**) para garantizar que la aplicación sea **robusta, escalable y que no haga 
+que a mi futuro equipo le duelan los ojos** al leer mi código.
+
+---
+
 Mi experiencia cubre el stack completo, lo que me da una capacidad de adaptación superior:
 
 | Área | Tecnologías y Lenguajes Dominados |
